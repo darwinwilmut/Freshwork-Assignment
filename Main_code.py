@@ -20,7 +20,7 @@ def set_delay(time=360):
     return
 
 # default Time to live
-delay = 360
+delay = 0
 
 # must run main function inorder to create and initialize json file
 def main_function():
