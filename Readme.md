@@ -52,7 +52,7 @@ To get a local copy up and running follow these simple steps.
     # it takes key and value as the parameter
     create('key',value)
 
-    # the deafult time to live value is 0 which means None.
+    # the default time to live value is 0 which means None.
     # you can set time to live property
     # it takes integer value (seconds) as the parameter
     set_delay(seconds)
